@@ -19,7 +19,7 @@ Download the code from github and compile with:
 
     $ git clone https://github.com/rm-hull/spidev-test
     $ cd spidev-test
-    $ gcc spidev_test.c -o spidev_test
+    $ make
 
 ## Enabling SPI on the Raspberry Pi
 
